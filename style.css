@@ -196,6 +196,11 @@ i {
     flex-direction: column;
   }
 }
+@media screen and (max-width: 760px) {
+  .venhaconhecer {
+    margin: 0px 0px 8px 10px;
+  }
+}
 .services {
   background-color: #FFF;
   color: #232224;
@@ -296,7 +301,7 @@ i {
 
 @media screen and (max-width: 768px) {
   .mapa {
-    width: 400px;
+    width: 340px;
   }
 }
 .footer {
@@ -350,7 +355,7 @@ i {
 
 @media screen and (max-width: 768px) {
   .btn-whatsapp img {
-    max-width: 64px;
+    max-width: 44px;
   }
 }
 body {
